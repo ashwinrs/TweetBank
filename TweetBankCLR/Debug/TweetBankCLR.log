@@ -1,0 +1,6 @@
+﻿  TweetBankCLR.cpp
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  TweetBankCLR.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+TweetBank.lib(TweetBankCore.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  TweetBankCLR.vcxproj -> E:\Apps\Dropbox\Code\vs\TweetBank\Debug\TweetBankCLR.dll
+  TweetBankCLR.vcxproj -> E:\Apps\Dropbox\Code\vs\TweetBank\Debug\TweetBankCLR.pdb (Partial PDB)

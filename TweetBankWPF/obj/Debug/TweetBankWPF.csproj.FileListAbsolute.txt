@@ -1,0 +1,16 @@
+E:\Apps\Dropbox\Code\vs\TweetBank\TweetBankWPF\bin\Debug\TweetBankWPF.exe.config
+E:\Apps\Dropbox\Code\vs\TweetBank\TweetBankWPF\bin\Debug\TweetBankWPF.exe
+E:\Apps\Dropbox\Code\vs\TweetBank\TweetBankWPF\bin\Debug\TweetBankWPF.pdb
+E:\Apps\Dropbox\Code\vs\TweetBank\TweetBankWPF\obj\Debug\TweetBankWPF.csprojResolveAssemblyReference.cache
+E:\Apps\Dropbox\Code\vs\TweetBank\TweetBankWPF\obj\Debug\MainWindow.g.cs
+E:\Apps\Dropbox\Code\vs\TweetBank\TweetBankWPF\obj\Debug\App.g.cs
+E:\Apps\Dropbox\Code\vs\TweetBank\TweetBankWPF\obj\Debug\TweetBankWPF_MarkupCompile.cache
+E:\Apps\Dropbox\Code\vs\TweetBank\TweetBankWPF\obj\Debug\TweetBankWPF_MarkupCompile.lref
+E:\Apps\Dropbox\Code\vs\TweetBank\TweetBankWPF\obj\Debug\MainWindow.baml
+E:\Apps\Dropbox\Code\vs\TweetBank\TweetBankWPF\obj\Debug\TweetBankWPF.g.resources
+E:\Apps\Dropbox\Code\vs\TweetBank\TweetBankWPF\obj\Debug\TweetBankWPF.Properties.Resources.resources
+E:\Apps\Dropbox\Code\vs\TweetBank\TweetBankWPF\obj\Debug\TweetBankWPF.csproj.GenerateResource.Cache
+E:\Apps\Dropbox\Code\vs\TweetBank\TweetBankWPF\obj\Debug\TweetBankWPF.exe
+E:\Apps\Dropbox\Code\vs\TweetBank\TweetBankWPF\obj\Debug\TweetBankWPF.pdb
+E:\Apps\Dropbox\Code\vs\TweetBank\TweetBankWPF\bin\Debug\TweetBankCLR.dll
+E:\Apps\Dropbox\Code\vs\TweetBank\TweetBankWPF\bin\Debug\TweetBankCLR.pdb
